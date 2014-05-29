@@ -1,6 +1,6 @@
-% Rappaport, Elliot D
-% ECE 408: Wireless Communications
-% May 1, 2014
+%  Mark Bryk, Elie Weintraub, Hillel Weintraub
+%  ECE 408 - Wireless Comms
+%  5/1/14
 % OFDM
 clear
 
