@@ -1,5 +1,5 @@
 %% MIMO through Rayleigh Channel
-%  Mark Bryk and the Traubs
+%  Mark Bryk, Elie Weintraub, Hillel Weintraub
 %  ECE 408 - Wireless Comms
 %  5/1/14
 %  MIMO
